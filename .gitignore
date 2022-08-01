@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore pickles
+*.pkl
+**/*.pkl
+
+# ignore data image files 
+*.png
+datasets_split/
+image_data/
+image_datasets/
+split/
+OD-WeaponDetection-master/
+
 # Distribution / packaging
 .Python
 build/
