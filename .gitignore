@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore Csvs
+*.csv
+
 # Ignore pickles
 *.pkl
 **/*.pkl
