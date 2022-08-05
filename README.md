@@ -26,6 +26,17 @@ Is there a way to detect potentially dangerous individuals by image recognition 
 **Data Sources:** 
 - <a href ="https://wonder.cdc.gov/ucd-icd10.html">Center for Disease, Control, and Prevention</a>
 
+To further understand the impact of gun violence in the United States, the following repository also contains an exploratory data analysis on gun violence using CDC data. 
+
+<p align="center"> <img width="939" alt="casualties since 2014" src="https://user-images.githubusercontent.com/86889081/183161016-1f335d56-4ee9-4a6c-9b23-55897f57bcd8.png" width="300" height="500">
+</p> 
+
+<p align="center"><img src = "https://user-images.githubusercontent.com/86889081/183162774-47cb430a-d845-4d20-a0cc-82946da4421c.png" width="1000" height="550">
+</p> 
+
+Link: <a href ="https://public.tableau.com/app/profile/eric8519/viz/GunViolenceinAmerica_16594922347050/GunViolenceinAmericaDash">Tableau Visualizations</a>
+
+
 **Image Data:** 
 - <a href="https://dasci.es/transferencia/open-data/24705/">Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)</a>
 - <a href="https://www.kaggle.com/datasets/ahmadahmadzada/images2000"> Kaggle </a>
