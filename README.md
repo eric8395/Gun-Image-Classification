@@ -93,10 +93,11 @@ For example, there are data privacy and ethical concerns related to the usage of
 ## Repository Structure
 
 ```
-├── Data
-├── Images
+├── images_presentation
+├── pdfs
 ├── .gitignore
-├── NFL Combine Classification Presentation Slides.pdf
-├── NFL Combine Draft Classification.ipynb
+├── EDA.ipynb
+├── Image Classification - Binary.ipynb
+└── Image Classification - Multiclass.ipynb
 └── README.md
 ```
