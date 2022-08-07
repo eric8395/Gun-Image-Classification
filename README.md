@@ -74,7 +74,9 @@ Building off the baseline model, a number of different architectural modeling de
 
 We found that through the modeling process, even our best performing machine learning model performs exceptionally well when it comes to classification of gun and not gun images. 
 
-Specifically, we determined that our best model, the CNN- V6 had a 88% accuracy and a 96% recall. As discussed, there is a trade-off when it comes to improving upon accuracy and recall. As one metric increases, the other effectively decreases and a balance must be found between the two. 
+Specifically, we determined that our best model, the CNN- V6 had a 88% accuracy and a 96% recall. As discussed, there is a trade-off when it comes to improving upon accuracy and recall. As one metric increases, the other effectively decreases and a balance must be found between the two. Below is a summary of the model and performance:
+
+<p align="center"><img width="565" alt="cnn6model" src="https://user-images.githubusercontent.com/86889081/183294615-7936af3e-cb1f-4bfc-b39f-d90bccbd9a35.png"></p> 
 
 <p align="center"> <img width="365" alt="accuracy and loss" src="https://user-images.githubusercontent.com/86889081/183102178-6798735a-e10a-48a5-a344-566b4caec3bf.png"></p> 
 
