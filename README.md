@@ -1,4 +1,4 @@
-# *Gun Violence in America* - Gun Image Classification Using Neural Networks
+# *Gun Violence in America* - A Firearms Image Classification Using Neural Networks
 
 
 <p align="center">
